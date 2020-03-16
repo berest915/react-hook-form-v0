@@ -1,3 +1,11 @@
+## Description
+
+This is an Attempt to make react-multi-step-form using React-Hook-Form
+
+### React-Hook-Form Reference
+
+https://react-hook-form.com/api/#useForm
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
